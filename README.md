@@ -1,9 +1,11 @@
 
 ****
 
-## <h1>Jay Rizuri</h1>
+## <h1 align="center">Jay Rizuri</h1>
 
  
-<h4 style="text-align:center;">Music Artist & Developer</h4>
+<h4 style="text-align:center;" align="center">Music Artist & Developer</h4>
 
-![JayRizuri's github stats](https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord)
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord">
+</p>
