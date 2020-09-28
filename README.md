@@ -6,6 +6,7 @@
 
 ### <h2 align="center">About Me</h2>
 ![JayRizuri's github stats](https://github-readme-stats.vercel.app/api?username=JayRizuri&theme=nord&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayRizuri&theme=nord&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### <h2 align="center">Discography</p>
 
