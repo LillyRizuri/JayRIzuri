@@ -1,6 +1,5 @@
----?image=assets/img/stormtroopers.jpg
 ****
-
+---?image=assets/img/stormtroopers.jpg
 ## <h1 align="center">Jay Rizuri</h1>
 
 <h4 align="center">Music Artist & Developer</h4>
