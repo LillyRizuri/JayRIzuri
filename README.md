@@ -1,4 +1,4 @@
-<h1 align="center">I'm Jay Rizuri</h1>
+<h1 align="center" background-color="#55555">I'm Jay Rizuri</h1>
 <h3 align="center">A Game dev/Music Artist/Artist without a life goal</h3>
 
 - I’m currently working on a discord bot named Sami
