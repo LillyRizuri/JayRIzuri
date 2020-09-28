@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/jayrizuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jayrizuri" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jay rizuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jay rizuri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jay rizuri" target="blank"><img align="center" src="https://spng.pngfind.com/pngs/s/57-575943_while-we-do-offer-email-contact-were-more.png" alt="jay rizuri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jay rizuri" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png" alt="jay rizuri" height="30" width="40" /></a>
 </p>
 \
 <h3 align="left">Languages and Tools:</h3>
