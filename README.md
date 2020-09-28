@@ -7,7 +7,9 @@
 ### <h2 align="center">About Me</h2>
 
 <h4 align="center">Music Artist & Developer</h4>
-<p>h<img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord"></p>
+Stats            |  Skills
+:-------------------------:|:-------------------------:
+<p><img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord"></p>  |  ![](https://...Ocean.png)
 
 ### <h2 align="center">Discography</p>
 
