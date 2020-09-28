@@ -13,5 +13,5 @@
 </p>
 <p align="center"> Discography</p>
 <p align="center">
-<img width="150" height="120" src="https://img.youtube.com/vi/FhdoUOkWTGc/0.jpg">
+<img width="170" height="120" src="https://img.youtube.com/vi/FhdoUOkWTGc/0.jpg">
 </p>
