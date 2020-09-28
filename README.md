@@ -9,7 +9,9 @@
 <h4 align="center">Music Artist & Developer</h4>
 
 <p align="center"><img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord"></p>
-###<h2 align="center">Discography</p>
+
+### <h2 align="center">Discography</p>
+
 <p align="center">
 <img width="170" height="120" src="https://img.youtube.com/vi/FhdoUOkWTGc/0.jpg">
 </p>
