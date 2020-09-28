@@ -13,3 +13,4 @@
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord">
 </p>
+<p> Discography</p>
