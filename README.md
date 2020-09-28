@@ -11,4 +11,5 @@
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord">
 <p align="center"> Discography</p>
-<img src="https://img.youtube.com/vi/FhdoUOkWTGc/0.jpg" style="height=5px">
+
+<img width="460" height="300" src="https://img.youtube.com/vi/FhdoUOkWTGc/0.jpg">
