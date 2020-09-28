@@ -3,7 +3,7 @@
 
 ## <h1 align="center">Jay Rizuri</h1>
 
- 
+![#22222](https://via.placeholder.com/15/22222/000000?text=+)
 <h4 align="center">Music Artist & Developer</h4>
 
 ### <h2 align="center">About Me</h2>
