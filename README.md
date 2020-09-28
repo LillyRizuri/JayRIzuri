@@ -5,7 +5,7 @@
 <h4 align="center">Music Artist & Developer</h4>
 
 ### <h2 align="center">About Me</h2>
-| <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord"> | <p>h</p> |
+| <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JayRizuri&show_icons=true&theme=nord"> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayRizuri&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) |
 |-|-|
 ### <h2 align="center">Discography</p>
 
