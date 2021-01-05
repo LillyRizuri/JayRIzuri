@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jay Rizuri</h1>
 <h3 align="center">A Game dev/Music Artist/Artist without a life goal</h3>
 
-- I’m currently working on [Sami](https://samidb.xyz/) and [Milk Bot](https://milkbot.gq/)
+- I’m currently working on [Sami](https://samidb.xyz/)
 
 - I'll collaborate on **pretty much anything**
 
