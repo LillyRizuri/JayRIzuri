@@ -16,25 +16,19 @@
   Languages and Tools:
 </h3>
 <p align="left">
-  <a href="" target="_blank"> 
-   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/558/166/png-transparent-node-js-javascript-react-express-js-linux-foundation-mongodb-icons-angle-text-rectangle-thumbnail.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://discord.js.org" target="_blank"> <img src="https://discord.js.org/static/logo-square.png" alt="discord.js" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="hhttps://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
