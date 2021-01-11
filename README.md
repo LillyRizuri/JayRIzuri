@@ -36,19 +36,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[01/11 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+`[01/11 17:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//JayRizuri/TinyColor3/pull/6 'Merge pull request #5 from JayRizuri/master') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+`[01/11 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+`[01/11 17:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//JayRizuri/TinyColor3/pull/5 'h') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+`[01/11 17:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//JayRizuri/TinyColor3/pull/5 'h') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+`[01/11 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 15:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [BhanukaUOM/Image-URL-Validator](https://github.com/BhanukaUOM/Image-URL-Validator) to [JayRizuri/Image-URL-Validator](https://github.com/JayRizuri/Image-URL-Validator)  
 `[01/11 01:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [JayRizuri/github-activity-readme](https://github.com/JayRizuri/github-activity-readme)  
 `[01/11 01:44]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.8`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.0.8) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+
+<details><summary>Show More</summary>
+
 `[01/11 01:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//JayRizuri/TinyColor3/pull/4 'Update package.json') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//JayRizuri/TinyColor3/pull/4 'Update package.json') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v1.0.8`](https://github.com/JayRizuri/TinyColor3/tree/v1.0.8) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
 `[01/11 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-
-<details><summary>Show More</summary>
-
 `[01/11 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
 `[01/11 01:29]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [JayRizuri/github-activity-readme](https://github.com/JayRizuri/github-activity-readme)  
 `[01/11 01:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
@@ -145,11 +151,6 @@
 `[11/29 09:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)  
 `[11/29 04:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot) to [JayRizuri/HaileyBot](https://github.com/JayRizuri/HaileyBot)  
 `[11/27 02:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
-`[11/26 19:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#347`](https://github.com//mickael-kerjean/filestash/issues/347 'Website not working !') in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)  
-`[11/20 14:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)  
-`[11/19 17:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/HaileyBot](https://github.com/JayRizuri/HaileyBot)  
-`[11/19 17:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot) to [JayRizuri/HaileyBot](https://github.com/JayRizuri/HaileyBot)  
-`[11/11 20:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
