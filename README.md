@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3](https://github.com/JayRizuri/TinyColor3/issues/3) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)
+2. 🎉 Merged PR [#2](https://github.com/JayRizuri/TinyColor3/pull/2) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)
+3. 💪 Opened PR [#2](https://github.com/JayRizuri/TinyColor3/pull/2) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)
+4. 🎉 Merged PR [#1](https://github.com/JayRizuri/TinyColor3/pull/1) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)
+5. 💪 Opened PR [#1](https://github.com/JayRizuri/TinyColor3/pull/1) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)
+<!--END_SECTION:activity-->
