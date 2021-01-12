@@ -36,6 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[01/12 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 22:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//JayRizuri/TinyColor3/issues/3 'Hsv - v isn\'t returning') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 21:25]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.6`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.3.6) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
@@ -45,10 +46,10 @@
 `[01/11 21:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 20:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v2.3.1` from [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 20:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v2.3.1-1` from [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 
 <details><summary>Show More</summary>
 
+`[01/11 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 20:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//JayRizuri/TinyColor3/pull/13 'v1.3.2') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 20:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//JayRizuri/TinyColor3/pull/13 'v1.3.2') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
@@ -170,7 +171,6 @@
 `[12/31 00:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
 `[12/30 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [JayRizuri/sami](https://github.com/JayRizuri/sami)  
 `[12/28 23:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor](https://github.com/JayRizuri/TinyColor)  
-`[12/28 21:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#222`](https://github.com//bgrins/TinyColor/pull/222 'Changed Function to Class and added CMYK conversion') in [bgrins/TinyColor](https://github.com/bgrins/TinyColor)  
 
 </details>
 <!--END_SECTION:activity-->
