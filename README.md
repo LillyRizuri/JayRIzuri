@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
-`[01/12 17:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
+`[01/12 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/12 14:59]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v2.0.0`](https://github.com/JayRizuri/TinyColor3/releases/tag/v2.0.0) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/12 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 22:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//JayRizuri/TinyColor3/issues/3 'Hsv - v isn\'t returning') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
@@ -166,8 +166,6 @@
 `[12/31 20:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
 `[12/31 20:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5172`](https://github.com//discordjs/discord.js/pull/5172 'feat(Sticker): added Sticker') in [discordjs/discord.js](https://github.com/discordjs/discord.js)  
 `[12/31 20:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
-`[12/31 06:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#222`](https://github.com//bgrins/TinyColor/issues/222 'added CMYK conversion') in [bgrins/TinyColor](https://github.com/bgrins/TinyColor)  
-`[12/31 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor](https://github.com/JayRizuri/TinyColor)  
 
 </details>
 <!--END_SECTION:activity-->
