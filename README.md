@@ -36,6 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[01/13 14:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [JayRizuri/discord.ep](https://github.com/JayRizuri/discord.ep)  
 `[01/12 19:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/12 19:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//JayRizuri/TinyColor3/pull/14 'i have to convert a spreadsheet to javascript') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/12 19:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
@@ -45,10 +46,10 @@
 `[01/12 14:59]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v2.0.0`](https://github.com/JayRizuri/TinyColor3/releases/tag/v2.0.0) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/12 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 22:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//JayRizuri/TinyColor3/issues/3 'Hsv - v isn\'t returning') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 21:25]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.6`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.3.6) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 
 <details><summary>Show More</summary>
 
+`[01/11 21:25]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.6`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.3.6) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 21:13]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.4`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.3.4) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 21:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
@@ -166,11 +167,7 @@
 `[01/10 10:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor](https://github.com/JayRizuri/TinyColor)  
 `[01/10 07:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `65` commits in [JayRizuri/discord.ep](https://github.com/JayRizuri/discord.ep)  
-`[01/05 17:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [JayRizuri/sami](https://github.com/JayRizuri/sami)  
-`[01/05 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
-`[12/31 20:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
-`[12/31 20:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5172`](https://github.com//discordjs/discord.js/pull/5172 'feat(Sticker): added Sticker') in [discordjs/discord.js](https://github.com/discordjs/discord.js)  
-`[12/31 20:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
+`[01/05 17:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [JayRizuri/sami](https://github.com/JayRizuri/sami)  
 
 </details>
 <!--END_SECTION:activity-->
