@@ -36,6 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[01/28 20:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[01/28 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/28 19:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/sapphire.samidb.xyz/tree/main) in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/28 19:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
@@ -45,10 +46,10 @@
 `[01/20 05:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//ketkar203040/kitsu-api/pull/3 'Fixed Vulnerability') in [ketkar203040/kitsu-api](https://github.com/ketkar203040/kitsu-api)  
 `[01/20 05:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/kitsu-api](https://github.com/JayRizuri/kitsu-api)  
 `[01/20 05:45]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ctimmerm/axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) to [JayRizuri/axios-mock-adapter](https://github.com/JayRizuri/axios-mock-adapter)  
-`[01/20 05:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ketkar203040/kitsu-api](https://github.com/ketkar203040/kitsu-api) to [JayRizuri/kitsu-api](https://github.com/JayRizuri/kitsu-api)  
 
 <details><summary>Show More</summary>
 
+`[01/20 05:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ketkar203040/kitsu-api](https://github.com/ketkar203040/kitsu-api) to [JayRizuri/kitsu-api](https://github.com/JayRizuri/kitsu-api)  
 `[01/20 05:43]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//arifszn/reddit-image-fetcher/pull/4 'Updated to axios 0.21.1') in [arifszn/reddit-image-fetcher](https://github.com/arifszn/reddit-image-fetcher)  
 `[01/20 05:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/reddit-image-fetcher](https://github.com/JayRizuri/reddit-image-fetcher)  
 `[01/20 05:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [arifszn/reddit-image-fetcher](https://github.com/arifszn/reddit-image-fetcher) to [JayRizuri/reddit-image-fetcher](https://github.com/JayRizuri/reddit-image-fetcher)  
@@ -189,7 +190,7 @@
 `[01/10 10:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/TinyColor3/tree/main) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 10:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor](https://github.com/JayRizuri/TinyColor)  
-`[01/10 07:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `37` commits in [JayRizuri/discord.ep](https://github.com/JayRizuri/discord.ep)  
+`[01/10 07:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [JayRizuri/discord.ep](https://github.com/JayRizuri/discord.ep)  
 
 </details>
 <!--END_SECTION:activity-->
