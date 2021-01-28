@@ -36,6 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[01/28 23:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
+`[01/28 22:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/cdn.samidb.xyz/tree/main) in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
 `[01/28 22:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
 `[01/28 22:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/28 22:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
@@ -44,11 +46,11 @@
 `[01/28 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [JayRizuri/donate.samidb.xyz](https://github.com/JayRizuri/donate.samidb.xyz)  
 `[01/28 20:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/donate.samidb.xyz/tree/main) in [JayRizuri/donate.samidb.xyz](https://github.com/JayRizuri/donate.samidb.xyz)  
 `[01/28 20:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
-`[01/28 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
-`[01/28 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 
 <details><summary>Show More</summary>
 
+`[01/28 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
+`[01/28 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/28 19:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/sapphire.samidb.xyz/tree/main) in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/28 19:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/27 23:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/sami](https://github.com/JayRizuri/sami)  
@@ -194,11 +196,7 @@
 `[01/10 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 18:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 18:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/JayRizuri/TinyColor3/tree/master) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/10 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/10 10:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/TinyColor3/tree/main) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/10 10:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/10 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor](https://github.com/JayRizuri/TinyColor)  
-`[01/10 07:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/discord.ep](https://github.com/JayRizuri/discord.ep)  
+`[01/10 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 
 </details>
 <!--END_SECTION:activity-->
