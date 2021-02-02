@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
-`[02/02 15:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
+`[02/02 15:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [JayRizuri/sapphire.samidb.xyz](https://github.com/JayRizuri/sapphire.samidb.xyz)  
 `[01/29 01:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/donate.samidb.xyz](https://github.com/JayRizuri/donate.samidb.xyz)  
 `[01/29 01:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[01/29 01:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
@@ -188,7 +188,6 @@
 `[01/10 19:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/JayRizuri/TinyColor3/tree/master) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 19:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/10 19:43]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/10 19:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/TinyColor3/tree/main) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 
 </details>
 <!--END_SECTION:activity-->
