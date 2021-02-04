@@ -172,9 +172,6 @@
 `[01/11 01:05]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.6`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.0.6) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:04]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.5`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.0.5) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 01:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//JayRizuri/TinyColor3/pull/2 'V1.0.6') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 01:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//JayRizuri/TinyColor3/pull/2 'V1.0.6') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 01:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 
 </details>
 <!--END_SECTION:activity-->
