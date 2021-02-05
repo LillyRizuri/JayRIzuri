@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
-`[02/05 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
+`[02/05 17:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[02/05 04:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
 `[02/05 03:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/m.samidb.xyz](https://github.com/JayRizuri/m.samidb.xyz)  
 `[02/05 03:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/JayRizuri/m.samidb.xyz/tree/master) in [JayRizuri/m.samidb.xyz](https://github.com/JayRizuri/m.samidb.xyz)  
@@ -157,14 +157,6 @@
 `[01/11 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 19:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v1.2.1`](https://github.com/JayRizuri/TinyColor3/tree/v1.2.1) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:41]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.0`](https://github.com/JayRizuri/TinyColor3/releases/tag/v1.2.0) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//JayRizuri/TinyColor3/pull/7 '1.2.0') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//JayRizuri/TinyColor3/pull/7 '1.2.0') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.2.0`](https://github.com/JayRizuri/TinyColor3/tree/1.2.0) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 17:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//JayRizuri/TinyColor3/pull/6 'Merge pull request #5 from JayRizuri/master') in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 
 </details>
 <!--END_SECTION:activity-->
