@@ -36,6 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[02/05 03:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/m.samidb.xyz](https://github.com/JayRizuri/m.samidb.xyz)  
+`[02/05 03:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/JayRizuri/m.samidb.xyz/tree/master) in [JayRizuri/m.samidb.xyz](https://github.com/JayRizuri/m.samidb.xyz)  
+`[02/05 03:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/m.samidb.xyz](https://github.com/JayRizuri/m.samidb.xyz)  
 `[02/05 03:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
 `[02/05 03:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
 `[02/05 03:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/donate.samidb.xyz](https://github.com/JayRizuri/donate.samidb.xyz)  
@@ -43,12 +46,12 @@
 `[02/05 03:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
 `[02/05 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[02/05 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/donate.samidb.xyz](https://github.com/JayRizuri/donate.samidb.xyz)  
-`[02/05 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
-`[02/05 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
-`[02/05 02:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 
 <details><summary>Show More</summary>
 
+`[02/05 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
+`[02/05 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
+`[02/05 02:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[02/05 02:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
 `[02/05 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[02/04 11:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
@@ -173,9 +176,6 @@
 `[01/11 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v1.0.8`](https://github.com/JayRizuri/TinyColor3/tree/v1.0.8) in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
 `[01/11 01:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
-`[01/11 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/TinyColor3](https://github.com/JayRizuri/TinyColor3)  
-`[01/11 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/JayRIzuri](https://github.com/JayRizuri/JayRIzuri)  
-`[01/11 01:29]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [JayRizuri/github-activity-readme](https://github.com/JayRizuri/github-activity-readme)  
 
 </details>
 <!--END_SECTION:activity-->
