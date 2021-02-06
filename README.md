@@ -28,7 +28,7 @@
   <a href="https://discord.js.org" target="_blank"> <img src="https://discord.js.org/static/logo-square.png" alt="discord.js" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="hhttps://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
