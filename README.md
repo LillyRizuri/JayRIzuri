@@ -23,7 +23,7 @@
     <img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png" alt="python" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/558/166/png-transparent-node-js-javascript-react-express-js-linux-foundation-mongodb-icons-angle-text-rectangle-thumbnail.png" alt="nodejs" width="40" height="40"/>
+    <img src="https://www.pngitem.com/pimgs/m/168-1680234_nodejs-logo-svg-hd-png-download.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://discord.js.org" target="_blank"> <img src="https://discord.js.org/static/logo-square.png" alt="discord.js" width="40" height="40"/>
   </a>
