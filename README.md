@@ -23,7 +23,7 @@
     <img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png" alt="python" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://nodejs.org/static/images/logo-hexagon-card.png" alt="nodejs" width="40" height="40"/>
+    <img src="https://nodejs.org/static/images/logo-hexagon.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://discord.js.org" target="_blank"> <img src="https://discord.js.org/static/logo-square.png" alt="discord.js" width="40" height="40"/>
   </a>
