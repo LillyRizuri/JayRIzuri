@@ -20,7 +20,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="python" width="40" height="40"/>
+    <img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="python" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://w7.pngwing.com/pngs/558/166/png-transparent-node-js-javascript-react-express-js-linux-foundation-mongodb-icons-angle-text-rectangle-thumbnail.png" alt="nodejs" width="40" height="40"/>
