@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
-`[02/26 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
+`[02/26 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [JayRizuri/vote.samidb.xyz](https://github.com/JayRizuri/vote.samidb.xyz)  
 `[02/07 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
 `[02/07 16:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//JayRizuri/jayrizuri.github.io/pull/2 'Moving icons') in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
 `[02/07 16:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//JayRizuri/jayrizuri.github.io/pull/2 'Moving icons') in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
@@ -108,7 +108,6 @@
 `[01/20 05:43]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//arifszn/reddit-image-fetcher/pull/4 'Updated to axios 0.21.1') in [arifszn/reddit-image-fetcher](https://github.com/arifszn/reddit-image-fetcher)  
 `[01/20 05:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/reddit-image-fetcher](https://github.com/JayRizuri/reddit-image-fetcher)  
 `[01/20 05:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [arifszn/reddit-image-fetcher](https://github.com/arifszn/reddit-image-fetcher) to [JayRizuri/reddit-image-fetcher](https://github.com/JayRizuri/reddit-image-fetcher)  
-`[01/18 02:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
 
 </details>
 <!--END_SECTION:activity-->
