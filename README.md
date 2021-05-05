@@ -89,9 +89,6 @@
 `[02/05 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/cdn.samidb.xyz](https://github.com/JayRizuri/cdn.samidb.xyz)  
 `[02/05 02:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[02/05 02:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
-`[02/05 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
-`[02/04 11:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
-`[02/04 06:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
