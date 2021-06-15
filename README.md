@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
-`[06/15 02:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
+`[06/15 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/15 01:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `moving-icons` from [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/15 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/13 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
