@@ -36,6 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[06/15 00:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/13 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/13 13:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/blockdata/tree/main) in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/13 13:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
@@ -45,10 +46,10 @@
 `[05/24 14:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/reddit-image-fetcher](https://github.com/JayRizuri/reddit-image-fetcher)  
 `[05/23 06:36]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iaewing/SwagasaurusBot](https://github.com/iaewing/SwagasaurusBot) to [JayRizuri/SwagasaurusBot](https://github.com/JayRizuri/SwagasaurusBot)  
 `[05/23 06:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#110`](https://github.com//meodai/color-names/pull/110 'feat(colors): adds 4 colors') in [meodai/color-names](https://github.com/meodai/color-names)  
-`[05/23 06:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [JayRizuri/color-names](https://github.com/JayRizuri/color-names)  
 
 <details><summary>Show More</summary>
 
+`[05/23 06:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [JayRizuri/color-names](https://github.com/JayRizuri/color-names)  
 `[05/23 04:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meodai/color-names](https://github.com/meodai/color-names) to [JayRizuri/color-names](https://github.com/JayRizuri/color-names)  
 `[05/23 03:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[04/23 21:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
