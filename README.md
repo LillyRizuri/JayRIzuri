@@ -36,6 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
+`[06/24 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
+`[06/24 21:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fonts`](https://github.com/LillyRizuri/lillyrizuri.github.io/tree/fonts) in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/24 06:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[06/19 20:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[06/15 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
@@ -44,11 +46,11 @@
 `[06/13 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/13 13:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/blockdata/tree/main) in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/13 13:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
-`[06/12 23:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-`[06/08 01:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [monbrey/discord.js](https://github.com/monbrey/discord.js) to [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 
 <details><summary>Show More</summary>
 
+`[06/12 23:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
+`[06/08 01:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [monbrey/discord.js](https://github.com/monbrey/discord.js) to [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[06/02 22:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[05/24 14:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/reddit-image-fetcher](https://github.com/JayRizuri/reddit-image-fetcher)  
 `[05/23 06:36]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iaewing/SwagasaurusBot](https://github.com/iaewing/SwagasaurusBot) to [JayRizuri/SwagasaurusBot](https://github.com/JayRizuri/SwagasaurusBot)  
