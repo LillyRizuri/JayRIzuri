@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" />
   <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" />
-</p>
+</p>\
 
 
  <!--START_SECTION:activity-->
