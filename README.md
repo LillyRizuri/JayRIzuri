@@ -30,8 +30,8 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" /><br></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
