@@ -1,4 +1,4 @@
-<h1 align="center">I'm Jay Rizuri</h1>
+<h1 align="center">I'm Lilly Rizuri</h1>
 <h3 align="center">A Game dev/Music Artist/Artist without a life goal</h3>
 
 - I’m currently working on [Sami](https://samidb.xyz/)
@@ -7,9 +7,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/jayrizuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jayrizuri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jayrizuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jay rizuri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jayrizuri" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png" alt="jay rizuri" height="30" width="30" /></a>
+<a href="https://twitter.com/lillyrizuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jayrizuri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lillyrizuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jay rizuri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lillyrizuri" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png" alt="jay rizuri" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">
@@ -31,9 +31,9 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
 `[06/27 15:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/SamiDBApi](https://github.com/LillyRizuri/SamiDBApi)  
