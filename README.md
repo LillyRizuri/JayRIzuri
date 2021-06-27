@@ -24,8 +24,6 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://nodejs.org/static/images/logo-hexagon.png" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://discord.js.org" target="_blank"> <img src="https://discord.js.org/static/logo-square.png" alt="discord.js" width="40" height="40"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
   </a>
