@@ -31,10 +31,12 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" /><br></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" />
+  <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" />
+</p>
+<br>
  <!--START_SECTION:activity-->
 `[06/27 15:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/SamiDBApi](https://github.com/LillyRizuri/SamiDBApi)  
 `[06/27 15:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/LillyRizuri/samidbapi/tree/master) in [LillyRizuri/samidbapi](https://github.com/LillyRizuri/samidbapi)  
