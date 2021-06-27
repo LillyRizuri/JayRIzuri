@@ -30,9 +30,10 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" /><br></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lillyrizuri&theme=nord&show_icons=true" alt="jayrizuri" /><br></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillyrizuri&theme=nord&layout=compact" alt="jayrizuri" /></p>
 
  <!--START_SECTION:activity-->
 `[06/27 15:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/SamiDBApi](https://github.com/LillyRizuri/SamiDBApi)  
