@@ -42,6 +42,7 @@
 <br />  
 
  <!--START_SECTION:activity-->
+`[07/02 19:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aheckmann/gm](https://github.com/aheckmann/gm) to [LillyRizuri/gm](https://github.com/LillyRizuri/gm)  
 `[07/02 16:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[07/01 12:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [izy521/discord.io](https://github.com/izy521/discord.io) to [LillyRizuri/discord.io](https://github.com/LillyRizuri/discord.io)  
 `[06/29 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
@@ -51,10 +52,10 @@
 `[06/27 15:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/samidbapi](https://github.com/LillyRizuri/samidbapi)  
 `[06/27 13:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [benmosher/eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) to [LillyRizuri/eslint-plugin-import](https://github.com/LillyRizuri/eslint-plugin-import)  
 `[06/27 13:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/SamiAPI](https://github.com/LillyRizuri/SamiAPI)  
-`[06/27 13:06]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/SamiAPI](https://github.com/LillyRizuri/SamiAPI)  
 
 <details><summary>Show More</summary>
 
+`[06/27 13:06]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/SamiAPI](https://github.com/LillyRizuri/SamiAPI)  
 `[06/27 13:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/SamiAPI/tree/main) in [LillyRizuri/SamiAPI](https://github.com/LillyRizuri/SamiAPI)  
 `[06/24 23:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[06/24 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
