@@ -42,19 +42,23 @@
 <br />  
 
  <!--START_SECTION:activity-->
+`[07/07 19:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
+`[07/07 19:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
+`[07/07 19:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/LillyRizuri/tf2-customs-docs/tree/master) in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
+`[07/07 19:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/LillyRizuri/tf2-customs-docs/tree/gh-pages) in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 17:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 16:59]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 16:59]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gh-pages` from [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 16:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/tf2-customs-docs/tree/main) in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 16:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/LillyRizuri/tf2-customs-docs/tree/gh-pages) in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
+
+<details><summary>Show More</summary>
+
 `[07/07 16:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/LillyRizuri/tf2-customs-docs/tree/master) in [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/07 16:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/tf2-customs-docs](https://github.com/LillyRizuri/tf2-customs-docs)  
 `[07/02 19:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aheckmann/gm](https://github.com/aheckmann/gm) to [LillyRizuri/gm](https://github.com/LillyRizuri/gm)  
 `[07/02 16:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-
-<details><summary>Show More</summary>
-
 `[07/01 12:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [izy521/discord.io](https://github.com/izy521/discord.io) to [LillyRizuri/discord.io](https://github.com/LillyRizuri/discord.io)  
 `[06/29 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[06/27 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [LillyRizuri/LillyRizuri](https://github.com/LillyRizuri/LillyRizuri)  
