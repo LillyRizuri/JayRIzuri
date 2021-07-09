@@ -1,6 +1,8 @@
-<h1 align="center">I'm Lilly Rizuri</h1>
-<h3 align="center">A Game dev/Music Artist/Artist without a life goal</h3>
-
+# I'm Lilly Rizuri #
+### A Game dev/Music Artist/Artist without a life goal ###
+---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J25996L)
+---
 - I’m currently working on [Sami](https://samidb.xyz/)
 
 - I'll collaborate on **pretty much anything**
