@@ -90,10 +90,6 @@
 `[04/22 19:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [JayRizuri/jayrizuri.gay](https://github.com/JayRizuri/jayrizuri.gay)  
 `[04/22 12:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/jayrizuri.gay/tree/main) in [JayRizuri/jayrizuri.gay](https://github.com/JayRizuri/jayrizuri.gay)  
 `[04/22 12:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/jayrizuri.gay](https://github.com/JayRizuri/jayrizuri.gay)  
-`[04/16 18:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
-`[04/16 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
-`[04/16 16:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [JayRizuri/discord.js](https://github.com/JayRizuri/discord.js)  
-`[04/16 12:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
