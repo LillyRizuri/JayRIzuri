@@ -87,9 +87,6 @@
 `[05/23 04:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meodai/color-names](https://github.com/meodai/color-names) to [JayRizuri/color-names](https://github.com/JayRizuri/color-names)  
 `[05/23 03:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 `[04/23 21:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/jayrizuri.github.io](https://github.com/JayRizuri/jayrizuri.github.io)  
-`[04/22 19:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [JayRizuri/jayrizuri.gay](https://github.com/JayRizuri/jayrizuri.gay)  
-`[04/22 12:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/JayRizuri/jayrizuri.gay/tree/main) in [JayRizuri/jayrizuri.gay](https://github.com/JayRizuri/jayrizuri.gay)  
-`[04/22 12:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [JayRizuri/jayrizuri.gay](https://github.com/JayRizuri/jayrizuri.gay)  
 
 </details>
 <!--END_SECTION:activity-->
