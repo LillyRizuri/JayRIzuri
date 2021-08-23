@@ -89,7 +89,7 @@
 `[05/23 06:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#110`](https://github.com//meodai/color-names/pull/110 'feat(colors): adds 4 colors') in [meodai/color-names](https://github.com/meodai/color-names)  
 `[05/23 06:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [JayRizuri/color-names](https://github.com/JayRizuri/color-names)  
 `[05/23 04:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meodai/color-names](https://github.com/meodai/color-names) to [JayRizuri/color-names](https://github.com/JayRizuri/color-names)  
-`[05/23 03:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
+`[05/23 03:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [JayRizuri/samidb.xyz](https://github.com/JayRizuri/samidb.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
