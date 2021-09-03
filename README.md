@@ -83,7 +83,6 @@
 `[06/13 13:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/12 23:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[06/08 01:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [monbrey/discord.js](https://github.com/monbrey/discord.js) to [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-`[06/02 22:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
