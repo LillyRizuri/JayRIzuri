@@ -81,8 +81,7 @@
 `[06/13 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/13 13:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/blockdata/tree/main) in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 `[06/13 13:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
-`[06/12 23:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-`[06/08 01:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [monbrey/discord.js](https://github.com/monbrey/discord.js) to [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
+`[06/12 23:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 
 </details>
 <!--END_SECTION:activity-->
