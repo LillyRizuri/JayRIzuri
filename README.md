@@ -78,9 +78,6 @@
 `[06/15 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/15 01:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `moving-icons` from [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
 `[06/15 01:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [LillyRizuri/lillyrizuri.github.io](https://github.com/LillyRizuri/lillyrizuri.github.io)  
-`[06/13 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
-`[06/13 13:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/blockdata/tree/main) in [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
-`[06/13 13:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/blockdata](https://github.com/LillyRizuri/blockdata)  
 
 </details>
 <!--END_SECTION:activity-->
