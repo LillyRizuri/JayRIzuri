@@ -64,7 +64,6 @@
 `[07/02 19:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aheckmann/gm](https://github.com/aheckmann/gm) to [LillyRizuri/gm](https://github.com/LillyRizuri/gm)  
 `[07/02 16:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[07/01 12:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [izy521/discord.io](https://github.com/izy521/discord.io) to [LillyRizuri/discord.io](https://github.com/LillyRizuri/discord.io)  
-`[06/29 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
