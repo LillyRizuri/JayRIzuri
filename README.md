@@ -61,8 +61,6 @@
 `[07/09 00:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[07/08 23:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`scss-rewrite`](https://github.com/LillyRizuri/samidb.xyz/tree/scss-rewrite) in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[07/08 14:53]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SushiBtw/discord-music-player](https://github.com/SushiBtw/discord-music-player) to [LillyRizuri/discord-music-player](https://github.com/LillyRizuri/discord-music-player)  
-`[07/02 19:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aheckmann/gm](https://github.com/aheckmann/gm) to [LillyRizuri/gm](https://github.com/LillyRizuri/gm)  
-`[07/02 16:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 
 </details>
 <!--END_SECTION:activity-->
