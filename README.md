@@ -58,8 +58,6 @@
 <details><summary>Show More</summary>
 
 `[07/13 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-`[07/09 05:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
-`[07/09 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/LillyRizuri](https://github.com/LillyRizuri/LillyRizuri)  
 
 </details>
 <!--END_SECTION:activity-->
