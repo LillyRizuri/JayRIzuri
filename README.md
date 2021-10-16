@@ -58,7 +58,6 @@
 <details><summary>Show More</summary>
 
 `[07/24 01:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
-`[07/15 05:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
