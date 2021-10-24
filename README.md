@@ -58,7 +58,6 @@
 <details><summary>Show More</summary>
 
 `[07/28 16:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`threads`](https://github.com/LillyRizuri/discord.js/tree/threads) in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-`[07/24 01:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
