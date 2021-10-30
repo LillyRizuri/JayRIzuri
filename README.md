@@ -53,7 +53,7 @@
 `[09/27 02:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [scrubthispie/meowscrub](https://github.com/scrubthispie/meowscrub) to [LillyRizuri/meowscrub](https://github.com/LillyRizuri/meowscrub)  
 `[09/20 00:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
 `[08/17 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
-`[08/16 01:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
+`[08/16 01:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 
 </details>
 <!--END_SECTION:activity-->
