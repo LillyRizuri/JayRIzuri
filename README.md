@@ -44,6 +44,7 @@
 <br />  
 
  <!--START_SECTION:activity-->
+`[11/06 06:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 `[11/02 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[10/12 21:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
 `[10/12 16:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
@@ -53,6 +54,9 @@
 `[09/27 02:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [scrubthispie/meowscrub](https://github.com/scrubthispie/meowscrub) to [LillyRizuri/meowscrub](https://github.com/LillyRizuri/meowscrub)  
 `[09/20 00:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
 `[08/17 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
+
+<details><summary>Show More</summary>
+
 `[08/16 01:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
 
 </details>
