@@ -1,4 +1,4 @@
-# I'm Lilly Rizuri #
+# I'm Melanie Rizu #
 ### A Game dev/Music Artist/Artist without a life goal ###
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J25996L)
