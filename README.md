@@ -62,7 +62,6 @@
 `[10/04 05:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 `[09/27 04:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [LillyRizuri/meowscrub](https://github.com/LillyRizuri/meowscrub)  
 `[09/27 02:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [scrubthispie/meowscrub](https://github.com/scrubthispie/meowscrub) to [LillyRizuri/meowscrub](https://github.com/LillyRizuri/meowscrub)  
-`[09/20 00:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
