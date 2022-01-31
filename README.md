@@ -44,6 +44,7 @@
 <br />  
 
  <!--START_SECTION:activity-->
+`[01/31 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/discord.js](https://github.com/Melliowse/discord.js)  
 `[01/27 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/Melliowse](https://github.com/Melliowse/Melliowse)  
 `[01/25 14:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/discord.js](https://github.com/xyMelancholz/discord.js)  
 `[01/20 11:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake error') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
@@ -53,10 +54,10 @@
 `[01/08 04:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/xyMelancholz/guyy.art1/tree/master) in [xyMelancholz/guyy.art1](https://github.com/xyMelancholz/guyy.art1)  
 `[01/08 04:14]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [xyMelancholz/guyy.art1](https://github.com/xyMelancholz/guyy.art1)  
 `[01/04 17:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [xyMelancholz/lillyrizuri.xyz](https://github.com/xyMelancholz/lillyrizuri.xyz)  
-`[12/29 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 
 <details><summary>Show More</summary>
 
+`[12/29 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 `[12/28 20:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/xyMelancholz/guyy.art/tree/main) in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 `[12/28 20:06]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 `[12/11 18:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/xyMelancholz](https://github.com/xyMelancholz/xyMelancholz)  
