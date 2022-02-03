@@ -68,7 +68,6 @@
 `[11/17 14:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/privacy-policy-generator/tree/main) in [LillyRizuri/privacy-policy-generator](https://github.com/LillyRizuri/privacy-policy-generator)  
 `[11/17 14:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/privacy-policy-generator](https://github.com/LillyRizuri/privacy-policy-generator)  
 `[11/06 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [LillyRizuri/discord.js](https://github.com/LillyRizuri/discord.js)  
-`[11/02 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/samidb.xyz](https://github.com/LillyRizuri/samidb.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
