@@ -64,9 +64,6 @@
 `[12/10 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [relative/discord-bad-domains](https://github.com/relative/discord-bad-domains)  
 `[12/07 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [MelanieRizu/MelanieRizu](https://github.com/MelanieRizu/MelanieRizu)  
 `[11/28 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
-`[11/17 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/privacy-policy-generator](https://github.com/LillyRizuri/privacy-policy-generator)  
-`[11/17 14:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/LillyRizuri/privacy-policy-generator/tree/main) in [LillyRizuri/privacy-policy-generator](https://github.com/LillyRizuri/privacy-policy-generator)  
-`[11/17 14:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [LillyRizuri/privacy-policy-generator](https://github.com/LillyRizuri/privacy-policy-generator)  
 
 </details>
 <!--END_SECTION:activity-->
