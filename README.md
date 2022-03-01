@@ -63,7 +63,6 @@
 `[12/11 18:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/xyMelancholz](https://github.com/xyMelancholz/xyMelancholz)  
 `[12/10 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [relative/discord-bad-domains](https://github.com/relative/discord-bad-domains)  
 `[12/07 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [MelanieRizu/MelanieRizu](https://github.com/MelanieRizu/MelanieRizu)  
-`[11/28 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [LillyRizuri/lillyrizuri.xyz](https://github.com/LillyRizuri/lillyrizuri.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
