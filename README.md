@@ -62,7 +62,6 @@
 `[12/28 20:06]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 `[12/11 18:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/xyMelancholz](https://github.com/xyMelancholz/xyMelancholz)  
 `[12/10 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [relative/discord-bad-domains](https://github.com/relative/discord-bad-domains)  
-`[12/07 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [MelanieRizu/MelanieRizu](https://github.com/MelanieRizu/MelanieRizu)  
 
 </details>
 <!--END_SECTION:activity-->
