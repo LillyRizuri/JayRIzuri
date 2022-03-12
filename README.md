@@ -60,7 +60,6 @@
 `[12/29 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 `[12/28 20:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/xyMelancholz/guyy.art/tree/main) in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
 `[12/28 20:06]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
-`[12/11 18:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/xyMelancholz](https://github.com/xyMelancholz/xyMelancholz)  
 
 </details>
 <!--END_SECTION:activity-->
