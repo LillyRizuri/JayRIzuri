@@ -55,9 +55,5 @@
 `[01/08 04:14]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [xyMelancholz/guyy.art1](https://github.com/xyMelancholz/guyy.art1)  
 `[01/04 17:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [xyMelancholz/lillyrizuri.xyz](https://github.com/xyMelancholz/lillyrizuri.xyz)  
 
-<details><summary>Show More</summary>
-
-`[12/29 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
-
 </details>
 <!--END_SECTION:activity-->
