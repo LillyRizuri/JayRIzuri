@@ -50,9 +50,6 @@
 `[01/20 11:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake error') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
 `[01/20 11:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake error') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
 `[01/20 10:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake warning') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
-`[01/08 21:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [xyMelancholz/guyy.art](https://github.com/xyMelancholz/guyy.art)  
-`[01/08 04:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/xyMelancholz/guyy.art1/tree/master) in [xyMelancholz/guyy.art1](https://github.com/xyMelancholz/guyy.art1)  
-`[01/08 04:14]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [xyMelancholz/guyy.art1](https://github.com/xyMelancholz/guyy.art1)  
 
 </details>
 <!--END_SECTION:activity-->
