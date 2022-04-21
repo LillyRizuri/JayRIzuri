@@ -47,9 +47,6 @@
 `[01/31 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/discord.js](https://github.com/Melliowse/discord.js)  
 `[01/27 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/Melliowse](https://github.com/Melliowse/Melliowse)  
 `[01/25 14:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [xyMelancholz/discord.js](https://github.com/xyMelancholz/discord.js)  
-`[01/20 11:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake error') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
-`[01/20 11:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake error') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
-`[01/20 10:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#114`](https://github.com//catsout/wallpaper-engine-kde-plugin/issues/114 'CMake warning') in [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)  
 
 </details>
 <!--END_SECTION:activity-->
