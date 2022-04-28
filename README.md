@@ -49,7 +49,6 @@
 `[04/26 13:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Melliowse/discordjs/tree/main) in [Melliowse/discordjs](https://github.com/Melliowse/discordjs)  
 `[04/26 13:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Melliowse/discordjs](https://github.com/Melliowse/discordjs)  
 `[04/26 07:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Melliowse/discord.js](https://github.com/Melliowse/discord.js)  
-`[01/27 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/Melliowse](https://github.com/Melliowse/Melliowse)  
 
 </details>
 <!--END_SECTION:activity-->
