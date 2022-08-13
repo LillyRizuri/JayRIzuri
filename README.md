@@ -46,7 +46,6 @@
  <!--START_SECTION:activity-->
 `[06/07 15:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) to [Melliowse/UnityLibrary](https://github.com/Melliowse/UnityLibrary)  
 `[05/29 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/discordjs](https://github.com/Melliowse/discordjs)  
-`[05/12 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Melliowse/discordjs](https://github.com/Melliowse/discordjs)  
 
 </details>
 <!--END_SECTION:activity-->
