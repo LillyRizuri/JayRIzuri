@@ -1,4 +1,4 @@
-# I'm Melanie Rizu #
+# I'm Maple Moon #
 ### A Game dev/Music Artist/Artist without a life goal ###
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J25996L)
@@ -9,8 +9,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/melliowse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Lilly Rizuri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/melliowse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Lilly Rizuri" height="30" width="40" /></a>
+<a href="https://twitter.com/meltymooncakes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MeltyMooncakes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/meltymooncakes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MeltyMooncakes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">
@@ -32,9 +32,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melliowse&theme=nord&show_icons=true" alt="Melliowse" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeltyMoon&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true" alt="MeltyMooncakes" />
   <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melliowse&theme=nord&layout=compact" alt="Melliowse" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeltyMoon&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact" alt="MeltyMooncakes" />
 </p>
 <br />  
 <br />  
